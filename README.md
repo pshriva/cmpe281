@@ -1,3 +1,3 @@
 # cmpe281
 
-The pdf file contains solution to the load balancers different response problems.
+The pdf file contains multiple Screenshots proving the fix along with the analysis and explaination of the solution.
